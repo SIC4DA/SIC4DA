@@ -1,4 +1,4 @@
-<img style="transform: rotate(90deg);" align="left" width="20%" src="https://media2.giphy.com/media/5lckIPSeeqwjxcgfvm/giphy.gif?cid=ecf05e47w9o78ku011or9xdl9h0ec0khujom40wb3nbh3fp4&rid=giphy.gif&ct=s">
+<img align="left" width="20%" src="https://img.itch.zone/aW1hZ2UvMTMyNzA1LzYwOTIyMy5naWY=/original/aiPnrv.gif">
 
 ### Hoi!
 
