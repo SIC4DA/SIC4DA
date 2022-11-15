@@ -2,6 +2,6 @@
 
 ### Hoi&nbsp;!
 
-I'm SIC4DA, 18 years old, passionate web developer and likes to <del>**write code**</del> .
+I'm SIC4DA, 18 years old, passionate web developer who likes to <del>**write code**</del> .
 
 
