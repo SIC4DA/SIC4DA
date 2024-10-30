@@ -2,6 +2,6 @@
 
 ### Hoi&nbsp;!
 
-I'm Youssef, 20 a 20-year-old passionate Front-end developer who likes to <del>**write code**</del>.
+I'm Youssef, a 20-year-old passionate Front-end developer who likes to <del>**write code**</del>.
 
 
